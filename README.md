@@ -1,8 +1,8 @@
-### Hey 👋🏽, I'm [Christophe!](https://Christophepognon.github.io) 
-<div align="right">
+### Hey 👋🏽, I'm [Christophe!](https://Christophepognon.github.io) <div align="top">
 <a href="https://github.com/Christophepognon/Christophepognon/raw/main/CV%202020x3.pdf">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://github.com/Christophepognon/Christophepognon/raw/main/1000x1000%20fond%20trans.png" />
+  <img align="top" alt="Adarshreddyash LinkdeIN" width="100px" src="https://github.com/Christophepognon/Christophepognon/raw/main/1000x1000%20fond%20trans.png" />
 <a href="https://www.instagram.com/lapogn/">
+
   </div>
 </a>
 <br />

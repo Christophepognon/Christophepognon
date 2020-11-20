@@ -10,7 +10,7 @@
 </a>
 <br />
 <br />
-Bonjour, Je suis Christophe , étudiant en tant que chef de projet digital 🚀 en France, actuellement, Je suis un etudiant passioné et qui est toujours prêt à apprendre, A part la programmation/apprentissage, J'adore le sport et voyager.
+Bonjour, Je suis Christophe , étudiant en tant que chef de projet digital 🚀 en France, actuellement, Je suis un étudiant passioné et qui est toujours prêt à apprendre, A part la programmation/apprentissage, J'adore le sport et voyager.
 <br />
 
 **Choses personnelles:**

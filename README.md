@@ -19,7 +19,7 @@ Bonjour, Je suis Christophe , étudiant en tant que chef de projet digital 🚀 
 - 🌱 Je suis entrain d'apprendre tout ce qu'il y a à apprendre du monde du digital 
 - 👯 Je cherche à collaborer sur tout projet necessitant uen amélioration ; Je suis actuellement en recherche de stage dans la période de Mars à Aout 2020.
 - 📫 Me contacter : christophe.pognon@hotmail.fr
-- 📝[CV](file:///C:/Users/Ryzen%205%202600x/Desktop/digital%20campus/CV/CV%20Christophe%20POGNON2/CV%202020x3.pdf)
+- 📝[curriculum vitae](https://github.com/Christophepognon/Christophepognon/raw/main/CV%202020x3.pdf)
 
 Hi, I'm Christophe , a student as digital project manager 🚀 from France, currently, I'm a passionate student who's always ready to learn, Beside's programming/learning , I enjoy sports and traveling.
   

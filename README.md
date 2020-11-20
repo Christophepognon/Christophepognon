@@ -17,7 +17,8 @@ Bonjour, Je suis Christophe , étudiant en tant que chef de projet digital 🚀 
 
 - 👨🏽‍💻 Je suis étudiant chez [Digital Campus](https://www.digital-campus.fr) 
 - 🌱 Je suis entrain d'apprendre tout ce qu'il y a à apprendre du monde du digital 
-- 👯 Je cherche à collaborer sur tout projet necessitant uen amélioration ; Je suis actuellement en recherche de stage dans la période de Mars à Aout 2020.
+- 👯 Je cherche à collaborer sur tout projet necessitant uen amélioration 
+**Je suis actuellement en recherche de stage dans la période de Mars à Aout 2020**
 - 📫 Me contacter : christophe.pognon@hotmail.fr
 - 📝[curriculum vitae](https://github.com/Christophepognon/Christophepognon/raw/main/CV%202020x3.pdf)
 
@@ -27,10 +28,11 @@ Hi, I'm Christophe , a student as digital project manager 🚀 from France, curr
 
 - 👨🏽‍💻 I’m currently working in [Digital Campus](https://www.digital-campus.fr) 
 - 🌱 I’m currently learning everything from the digital world 
-- 👯 I’m looking to collaborate on every project who can be improved activily looking for a intership March to August 2020 
+- 👯 I’m looking to collaborate on every project who can be improved activily 
+                                       **Looking for a intership March to August 2020**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: christophe.pognon@hotmail.fr
-- 📝[Resume](file:///C:/Users/Ryzen%205%202600x/Desktop/digital%20campus/CV/CV%20Christophe%20POGNON2/CV%202020x3.pdf)
+- 📝[Resume](https://github.com/Christophepognon/Christophepognon/raw/main/CV%202020x3.pdf)
 
 <!-- [Ronix](https://github.com/Adarshreddyash/ronix-frontend)--> 
 <!--  -->

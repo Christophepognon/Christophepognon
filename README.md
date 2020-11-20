@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Christope Pognon professionel graphic designer in france
 <!--
 **Christophepognon/Christophepognon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
